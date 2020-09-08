@@ -1,0 +1,19 @@
+Link addresses
+
+Just reading levels gif:
+<img width="374" alt="Book Library Zooming" src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5b619424b97db15c283c7a02_zoom.gif" class="feature-image">
+
+Guided progress gif:
+<img width="374" alt="Text highlighted while reading" src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5b61942f81505959b4cbf1dd_Tap.gif" class="feature-image image-left">
+
+Immediate feedback gif:
+<img width="374" alt="Text highlighted while reading on iPad" src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5b61994bac18b7255561659d_reading.gif" class="feature-image">
+
+Instant clarification gif:
+<img width="374" alt="Incorrect words spoken " src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5b619ad39870efeda29d82b5_highlight.gif" class="feature-image image-left">
+
+Easy on the eye gif:
+<img width="374" alt="Book with sans-serif fonts on iPhone" src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5b619ce6b97db1f9463c7a63_easy.gif" class="feature-image">
+
+Proven Phonics Approach gif:
+<img width="374" src="https://uploads-ssl.webflow.com/5a97ba4c798a01000163b98a/5c772800ef1968924abdaea9_phonics.gif" alt="" class="feature-image image-left">
